@@ -19,7 +19,7 @@ Javascript | React.js | Node.js | CSS3 | HTML5 | Python | Django
 
 ### 📈 My GitHub Stats
 
-![Simone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonepri&theme=vue&show_icons=true)
+![Simone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslawes&theme=vue&show_icons=true)
 
 
 <h1 align="center">Hi 👋, I'm Lucas Lawes</h1>
