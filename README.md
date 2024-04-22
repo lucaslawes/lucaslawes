@@ -1,3 +1,27 @@
+# Simone Primarosa
+
+### Hi there 👋
+
+![I am GitHub Readme Generator's creator](https://i.imgur.com/I6dY5wd.png)
+
+I'm Simone, a passionate software engineer from Italy. I specialize in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products at Upstatement.
+
+Here's a quick summary about me:
+
+- 🔭 I’m working on numerous side-projects and open-source projects.
+- 🌱 I’m currently learning JavaScript, React, and Node.js
+- 👯 I’m looking to collaborate on innovative projects with positive impact
+- 📫 How to reach me: simonepri@github
+
+### 🛠 Skills
+
+Javascript | React.js | Node.js | CSS3 | HTML5 | Python | Django
+
+### 📈 My GitHub Stats
+
+![Simone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonepri&theme=vue&show_icons=true)
+
+
 <h1 align="center">Hi 👋, I'm Lucas Lawes</h1>
 <h3 align="center">A passionate developer from Surrey, United Kingdom</h3>
 
