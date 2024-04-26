@@ -2,7 +2,7 @@
 ---
 #### 🌱 I'm a software developer working on personal and social innovation projects
 
-Welcome to my GitHub profile! I'm a software developer working on personal and social innovation projects. I have built solutions for Audio Recognition, Lecture Capture and Collaboration. Feel free to browse my repositories and collaborate on projects.
+I have built solutions for Audio Recognition, Lecture Capture and Collaboration. Feel free to browse my repositories and collaborate on projects.
 
 ---
 
