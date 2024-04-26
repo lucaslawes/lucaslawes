@@ -2,12 +2,11 @@
 
 #### 🌱 I'm a software developer working on personal and social innovation projects
 
-Welcome to my GitHub profile! I am passionate about using technology to solve real-world problems. Feel free to browse my repositories and collaborate on projects.
+Welcome to my GitHub profile! I'm a software developer working on personal and social innovation projects. I have built solutions for Audio Recognition, Lecture Capture and Collaboration. Feel free to browse my repositories and collaborate on projects.
 
 ---
 
 👨‍💻 **About Me:**
-I specialise in Full-Stack Web Development and have experience building solutions for Audio Recognition, Lecture Capture and Collaboration:
 
 - 🔭 I’m currently working on updating my personal projects
 - 🌱 I’m currently learning Python
