@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Lucas Lawes!
 ---
-#### 🌱 I'm a software developer from London in the United Kingdom, working on personal and social innovation projects
+#### 🌱 I'm a software developer from London in the United Kingdom
 
-Welcome to my GitHub profile! I have built solutions for Audio Recognition, Lecture Capture and Collaboration. Feel free to browse my repositories and collaborate on projects.
+Welcome to my GitHub profile! I am working on personal and social innovation projects and have built solutions for Audio Recognition, Lecture Capture and Collaboration. Feel free to browse my repositories and collaborate on projects.
 
 ---
 
