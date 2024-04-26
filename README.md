@@ -29,11 +29,3 @@ Welcome to my GitHub profile! I'm a software developer working on personal and s
 ### 📊 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslawes&show_icons=true&theme=vue)
-
----
-
-### 📫 How to Reach Me:
-
-- **LinkedIn:** [lucaslawes](https://www.linkedin.com/in/lucaslawes)
-- **Twitter:** [@lucaslawes](https://twitter.com/lucaslawes)
-- **Website:** [lucaslawes.com](lucaslawes.com)
