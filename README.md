@@ -25,7 +25,3 @@ Welcome to my GitHub profile! I am working on personal and social innovation pro
 - **Databases:** Pinecone, MongoDB, Redis, MySql
 
 ---
-
-### 📊 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslawes&show_icons=true&theme=vue)
